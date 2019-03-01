@@ -1,0 +1,2 @@
+# freemarker_springboot_ems
+此项目是FreeMarker与SpringBoot的整合demo，已经配置好数据库，建好库表，包结构
